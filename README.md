@@ -6,3 +6,4 @@ The collection of student projects for Xamarin.Forms mobile applications.
 * [GamesHub](https://github.com/AppsLab2019/GamesHub)
 * [WeatherAssistant](https://github.com/AppsLab2019/WeatherAssistant)
 * [Prezenčka](https://github.com/AppsLab2019/Prezencka)
+* [Go&Find](https://github.com/AppsLab2019/Go-Find)
