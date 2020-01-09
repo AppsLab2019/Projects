@@ -9,3 +9,4 @@ The collection of student projects for Xamarin.Forms mobile applications.
 * [Go&Find](https://github.com/AppsLab2019/Go-Find)
 * [Quiz+](https://github.com/AppsLab2019/QuizPlus)
 * [Apocalyptic World](https://github.com/AppsLab2019/Apocalyptic-World)
+* [Hracia kocka](https://github.com/AppsLab2019/Hracia-kocka)
