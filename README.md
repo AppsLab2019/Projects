@@ -11,3 +11,4 @@ The collection of student projects for Xamarin.Forms mobile applications.
 * [Apocalyptic World](https://github.com/AppsLab2019/Apocalyptic-World)
 * [Hracia kocka](https://github.com/AppsLab2019/Hracia-kocka)
 * [IQ Test](https://github.com/AppsLab2019/IQ-Test)
+* [What Should I Do?](https://github.com/AppsLab2019/What-Should-I-Do)
